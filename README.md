@@ -1,6 +1,11 @@
 # shopping-cart
 Seed repository for implementing shopping cart using spring boot
 
+# Pre-requisites
+- Jdk 21
+- Docker
+- Git cli
+
 # Use cases to build
 - Adding Items: Allows users to add items to their shopping cart.
 - Viewing the Cart: Enables users to view all the items they have added to their cart.
